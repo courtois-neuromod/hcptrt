@@ -1,0 +1,6 @@
+{
+  "CogAtlasID": "trm_550b50095d4a3",
+  "RepetitionTime": 1.49,
+  "TaskName": "working memory fMRI task paradigm",
+  "TaskDescription": "This is the \"working memory\" task used in the Human Connectome Project. The category specific representation task and the working memory task are combined into a single task paradigm. Participants were presented with blocks of trials that consisted of pictures of places, tools, faces and body parts (non-mutilated parts of bodies with no nudity). Within each run, the 4 different stimulus types were presented in separate blocks. Also, within each run, half of the blocks use a 2-back working memory task and half use a 0-back working memory task (as a working memory comparison). A 2.5 second cue indicates the task type (and target for 0-back) at the start of the block. Each of the two runs contains 8 task blocks (10 trials of 2.5 seconds each, for 25 seconds) and 4 fixation blocks (15 seconds). On each trial, the stimulus is presented for 2 seconds, followed by a 500 ms inter-task interval (ITI)."
+}
