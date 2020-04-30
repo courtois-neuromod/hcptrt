@@ -8,10 +8,10 @@
     "Funding": [
         "Courtois Foundation"
     ],
-    "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
-    "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
-    "Name": "Courtois-Neuromod hcptrt",
-    "ReferencesAndLinks": [
-        "https://docs.cneuromod.ca/"
-    ]
+  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+  "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
+  "Name": "HCP-TRT sub-dataset of the Courtois-Neuromod project",
+  "ReferencesAndLinks": [
+      "https://docs.cneuromod.ca/"
+  ]
 }
