@@ -7,3 +7,5 @@
 *.nii.gz annex.largefiles=anything
 *.tgz annex.largefiles=anything
 *_scans.tsv annex.largefiles=anything
+# annex event files as they contain subjects behavioral responses
+sub-*/**/*_events.tsv annex.largefiles=nothing
