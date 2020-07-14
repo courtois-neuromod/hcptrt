@@ -17,19 +17,29 @@
   "EffectiveEchoSpacing": 0.000560011,
   "FlipAngle": 52,
   "ImageComments": "Single-band_reference",
-  "ImageOrientationPatientDICOM": [0.999923, -0.010232, 0.00702888, 0.0120424, 0.936983, -0.349167],
+  "ImageOrientationPatientDICOM": [
+    0.999923,
+    -0.010232,
+    0.00702888,
+    0.0120424,
+    0.936983,
+    -0.349167
+  ],
   "ImageType": [
     "ORIGINAL",
     "PRIMARY",
     "M",
     "ND",
     "MOSAIC"
-],
+  ],
   "ImagingFrequency": 123.26,
   "InPlanePhaseEncodingDirectionDICOM": "COL",
   "InstitutionAddress": "Chemin_Queen-Mary_4565_Montreal_District_CA_H3W_1W5",
   "InstitutionName": "IUGM",
   "InstitutionalDepartmentName": "Department",
+  "IntendedFor": [
+    "ses-009/func/sub-03_ses-009_task-social_run-02_bold.nii.gz"
+  ],
   "MRAcquisitionType": "2D",
   "MagneticFieldStrength": 3,
   "Manufacturer": "Siemens",
@@ -56,9 +66,79 @@
   "SequenceVariant": "SK_SS",
   "SeriesDescription": "func_task-social_run-2_SBRef",
   "SeriesNumber": 26,
-  "ShimSetting": [621, -7142, -8816, 662, 4, 183, 16, -27],
+  "ShimSetting": [
+    621,
+    -7142,
+    -8816,
+    662,
+    4,
+    183,
+    16,
+    -27
+  ],
   "SliceThickness": 2,
-  "SliceTiming": [0, 0.0975, 0.195, 0.2925, 0.39, 0.49, 0.5875, 0.685, 0.7825, 0.88, 0.98, 1.0775, 1.175, 1.2725, 1.37, 1.4675, 1.5675, 1.665, 1.7625, 1.86, 1.9575, 2.0575, 2.155, 2.2525, 2.35, 2.4475, 2.5475, 2.645, 2.7425, 2.84, 2.9375, 3.0375, 3.135, 3.2325, 3.33, 3.4275, 3.5275, 3.625, 3.7225, 3.82, 3.9175, 4.0175, 4.115, 4.2125, 4.31, 4.4075, 4.5075, 4.605, 4.7025, 4.8, 4.8975, 4.9975, 5.095, 5.1925, 5.29, 5.3875, 5.4875, 5.585, 5.6825, 5.78],
+  "SliceTiming": [
+    0,
+    0.0975,
+    0.195,
+    0.2925,
+    0.39,
+    0.49,
+    0.5875,
+    0.685,
+    0.7825,
+    0.88,
+    0.98,
+    1.0775,
+    1.175,
+    1.2725,
+    1.37,
+    1.4675,
+    1.5675,
+    1.665,
+    1.7625,
+    1.86,
+    1.9575,
+    2.0575,
+    2.155,
+    2.2525,
+    2.35,
+    2.4475,
+    2.5475,
+    2.645,
+    2.7425,
+    2.84,
+    2.9375,
+    3.0375,
+    3.135,
+    3.2325,
+    3.33,
+    3.4275,
+    3.5275,
+    3.625,
+    3.7225,
+    3.82,
+    3.9175,
+    4.0175,
+    4.115,
+    4.2125,
+    4.31,
+    4.4075,
+    4.5075,
+    4.605,
+    4.7025,
+    4.8,
+    4.8975,
+    4.9975,
+    5.095,
+    5.1925,
+    5.29,
+    5.3875,
+    5.4875,
+    5.585,
+    5.6825,
+    5.78
+  ],
   "SoftwareVersions": "syngo_MR_E11",
   "SpacingBetweenSlices": 2,
   "StationName": "MRC35049",
@@ -66,23 +146,72 @@
   "TxRefAmp": 208.776,
   "WipMemBlock": "592f3470-33b0-43b3-8ea6-410237aa0bbe||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja",
   "dcmmeta_affine": [
-    [-1.9998458623886108, 0.024084756150841713, 0.006026542745530605, 107.55624389648438],
-    [0.020463963970541954, 1.8739659786224365, -0.6984502077102661, -68.5918960571289],
-    [0.014057769440114498, 0.6983346939086914, 1.874068021774292, -69.0165023803711],
-    [0.0, 0.0, 0.0, 1.0]
-],
+    [
+      -1.9998458623886108,
+      0.024084756150841713,
+      0.006026542745530605,
+      107.55624389648438
+    ],
+    [
+      0.020463963970541954,
+      1.8739659786224365,
+      -0.6984502077102661,
+      -68.5918960571289
+    ],
+    [
+      0.014057769440114498,
+      0.6983346939086914,
+      1.874068021774292,
+      -69.0165023803711
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
   "dcmmeta_reorient_transform": [
-    [0.0, -1.0, 0.0, 103.0],
-    [1.0, 0.0, 0.0, 0.0],
-    [0.0, 0.0, 1.0, 0.0],
-    [0.0, 0.0, 0.0, 1.0]
-],
-  "dcmmeta_shape": [104, 104, 60],
+    [
+      0.0,
+      -1.0,
+      0.0,
+      103.0
+    ],
+    [
+      1.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      1.0,
+      0.0
+    ],
+    [
+      0.0,
+      0.0,
+      0.0,
+      1.0
+    ]
+  ],
+  "dcmmeta_shape": [
+    104,
+    104,
+    60
+  ],
   "dcmmeta_slice_dim": 2,
   "dcmmeta_version": 0.6,
   "global": {
     "const": {
-      "AcquisitionMatrix": [104, 0, 0, 104],
+      "AcquisitionMatrix": [
+        104,
+        0,
+        0,
+        104
+      ],
       "AcquisitionNumber": 1,
       "AcquisitionTime": "114921.845000",
       "AngioFlag": "N",
@@ -96,15 +225,26 @@
       "EchoTrainLength": 104,
       "FlipAngle": 52.0,
       "HighBit": 15,
-      "ImageOrientationPatient": [0.99992294769038, -0.0102319822299, 0.00702888482172, 0.01204237842129, 0.93698299645996, -0.3491673602542],
-      "ImagePositionPatient": [-846.74773145262, -799.10134228303, 251.98878233008],
+      "ImageOrientationPatient": [
+        0.99992294769038,
+        -0.0102319822299,
+        0.00702888482172,
+        0.01204237842129,
+        0.93698299645996,
+        -0.3491673602542
+      ],
+      "ImagePositionPatient": [
+        -846.74773145262,
+        -799.10134228303,
+        251.98878233008
+      ],
       "ImageType": [
         "ORIGINAL",
         "PRIMARY",
         "M",
         "ND",
         "MOSAIC"
-],
+      ],
       "ImagedNucleus": "1H",
       "ImagingFrequency": 123.259565,
       "InPlanePhaseEncodingDirection": "COL",
@@ -124,7 +264,10 @@
       "PhotometricInterpretation": "MONOCHROME2",
       "PixelBandwidth": 2290.0,
       "PixelRepresentation": 0,
-      "PixelSpacing": [2.0, 2.0],
+      "PixelSpacing": [
+        2.0,
+        2.0
+      ],
       "ProtocolName": "func_task-social_run-2",
       "RepetitionTime": 1490.0,
       "Rows": 832,
@@ -136,7 +279,7 @@
       "SequenceVariant": [
         "SK",
         "SS"
-],
+      ],
       "SeriesDescription": "func_task-social_run-2_SBRef",
       "SeriesNumber": 26,
       "SeriesTime": "115035.919000",
@@ -153,7 +296,8 @@
       "WindowCenter": 11735.0,
       "WindowCenterWidthExplanation": "Algo1",
       "WindowWidth": 24903.0,
-      "dBdt": 0.0},
+      "dBdt": 0.0
+    },
     "slices": {}
   }
 }
