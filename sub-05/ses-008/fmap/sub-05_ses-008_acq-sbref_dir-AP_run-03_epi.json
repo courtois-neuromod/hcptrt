@@ -38,6 +38,7 @@
   "InstitutionName": "IUGM",
   "InstitutionalDepartmentName": "Department",
   "IntendedFor": [
+    "ses-008/func/sub-05_ses-008_task-wm_run-02_bold.nii.gz",
     "ses-008/func/sub-05_ses-008_task-emotion_run-02_bold.nii.gz",
     "ses-008/func/sub-05_ses-008_task-gambling_run-02_bold.nii.gz",
     "ses-008/func/sub-05_ses-008_task-language_run-02_bold.nii.gz",
