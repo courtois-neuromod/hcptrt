@@ -1,0 +1,4 @@
+[submodule "derivatives/fmriprep-20.1.0"]
+	path = derivatives/fmriprep-20.1.0
+	url = ./derivatives/fmriprep-20.1.0
+	datalad-id = d7c57ad4-c6c4-11ea-9a78-98039b13f0b9
