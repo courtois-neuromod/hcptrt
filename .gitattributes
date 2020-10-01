@@ -9,3 +9,5 @@
 *_scans.tsv annex.largefiles=anything
 # annex event files as they contain subjects behavioral responses
 sub-*/**/*_events.tsv annex.largefiles=anything
+# annex all stimuli
+stimulis/** annex.largefiles=anything
