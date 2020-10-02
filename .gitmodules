@@ -2,3 +2,7 @@
 	path = derivatives/fmriprep-20.1.0
 	url = git@github.com:courtois-neuromod/hcptrt.fmriprep.git
 	datalad-id = d7c57ad4-c6c4-11ea-9a78-98039b13f0b9
+[submodule "derivatives/fmriprep-20.2lts"]
+	path = derivatives/fmriprep-20.2lts
+	url = ./derivatives/fmriprep-20.2lts
+	datalad-id = 770efdb3-0c65-45a1-acad-85c216378a13
