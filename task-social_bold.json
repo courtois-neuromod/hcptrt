@@ -1,6 +1,5 @@
 {
   "CogAtlasID": "trm_550b557e5f90e",
   "RepetitionTime": 1.49,
-  "TaskName": "social cognition (theory of mind) fMRI task paradigm",
-  "TaskDescription": "Participants were presented with short video clips (20 seconds) of objects (squares, circles, triangles) that either interacted in some way, or moved randomly on the screen. These videos were developed by either Castelli and colleagues (Castelli et al. 2000) or Martin and colleagues (Wheatley et al. 2007). After each video clip, participants judge whether the objects had a mental interaction (an interaction that appears as if the shapes are taking into account each otherâs feelings and thoughts), Not Sure, or No interaction (i.e., there is no obvious interaction between the shapes and the movement appears random). Each of the two task runs has 5 video blocks (2 Mental and 3 Random in one run, 3 Mental and 2 Random in the other run) and 5 fixation blocks (15 seconds each)."
+  "TaskName": "social cognition (theory of mind) fMRI task paradigm"
 }
