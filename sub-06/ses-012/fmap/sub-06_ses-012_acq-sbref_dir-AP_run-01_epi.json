@@ -32,7 +32,12 @@
   "InstitutionalDepartmentName": "Department",
   "IntendedFor": [
     "ses-012/func/sub-06_ses-012_task-gambling_run-01_bold.nii.gz",
-    "ses-012/func/sub-06_ses-012_task-wm_run-01_bold.nii.gz"
+    "ses-012/func/sub-06_ses-012_task-wm_run-01_bold.nii.gz",
+    "ses-012/func/sub-06_ses-012_task-emotion_run-01_bold.nii.gz",
+    "ses-012/func/sub-06_ses-012_task-motor_run-01_bold.nii.gz",
+    "ses-012/func/sub-06_ses-012_task-relational_run-01_bold.nii.gz",
+    "ses-012/func/sub-06_ses-012_task-language_run-01_bold.nii.gz",
+    "ses-012/func/sub-06_ses-012_task-social_run-01_bold.nii.gz"
 ],
   "MRAcquisitionType": "2D",
   "MagneticFieldStrength": 3,
