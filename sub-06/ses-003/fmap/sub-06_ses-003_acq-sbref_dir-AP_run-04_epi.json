@@ -33,7 +33,8 @@
   "IntendedFor": [
     "ses-003/func/sub-06_ses-003_task-gambling_run-02_bold.nii.gz",
     "ses-003/func/sub-06_ses-003_task-motor_run-02_bold.nii.gz",
-    "ses-003/func/sub-06_ses-003_task-social_run-02_bold.nii.gz"
+    "ses-003/func/sub-06_ses-003_task-social_run-02_bold.nii.gz",
+    "ses-003/func/sub-06_ses-003_task-emotion_run-02_bold.nii.gz"
 ],
   "MRAcquisitionType": "2D",
   "MagneticFieldStrength": 3,
