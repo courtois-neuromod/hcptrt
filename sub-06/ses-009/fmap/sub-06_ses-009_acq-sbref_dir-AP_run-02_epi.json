@@ -36,7 +36,8 @@
     "ses-009/func/sub-06_ses-009_task-language_run-02_bold.nii.gz",
     "ses-009/func/sub-06_ses-009_task-motor_run-02_bold.nii.gz",
     "ses-009/func/sub-06_ses-009_task-relational_run-02_bold.nii.gz",
-    "ses-009/func/sub-06_ses-009_task-social_run-02_bold.nii.gz"
+    "ses-009/func/sub-06_ses-009_task-social_run-02_bold.nii.gz",
+    "ses-009/func/sub-06_ses-009_task-wm_run-02_bold.nii.gz"
 ],
   "MRAcquisitionType": "2D",
   "MagneticFieldStrength": 3,
