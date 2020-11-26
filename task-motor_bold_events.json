@@ -1,0 +1,37 @@
+{
+    "trial_type": {
+        "LongName": "Event category",
+        "Description": "Indicator of type of action that is expected",
+        "Levels": {
+            "countdown": "just getting ready",
+            "new_bloc_left_hand": "a block in which left hand movement is required is about to start",
+            "response_left_hand": "move left hand",
+            "new_bloc_tongue": "a block in which tongue movement is required is about to start",
+            "response_tongue": "move tongue",
+        }
+    }
+}
+{
+    "nbloc": {
+        "LongName": "Bloc number",
+        "Description": "Progressive number of the block performed (max 0:22)",
+    }
+}
+{
+    "onset": {
+        "LongName": "Stimuli onset",
+        "Description": "Onset of the stimulus in ms",
+    }
+}
+{
+    "duration": {
+        "LongName": "Stimuli duration",
+        "Description": "duration of the stimulus in ms",
+        }
+}   
+{
+    "countdown_stim": {
+        "LongName": "countdown_stim",
+        "Description": "no idea",
+        }
+}
