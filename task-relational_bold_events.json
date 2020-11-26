@@ -1,0 +1,85 @@
+{
+    "trial_type": {
+        "LongName": "Event category",
+        "Description": "Indicator of type of event that is expected",
+        "Levels": {
+            "countdown": "just getting ready",
+            "new_bloc_relational": "a Relational block is about to start",
+            "new_bloc_control": "a Control block is about to start",
+            "Relational": "a block in which to compare the within-pair relation between two pairs of images",
+            "Control": "a block in which to compare the bottom image to the pair on top",
+        }
+    }
+}
+{
+    "onset": {
+        "LongName": "Stimuli onset",
+        "Description": "Onset of the stimulus in seconds",
+    }
+}
+{
+    "duration": {
+        "LongName": "Stimuli duration",
+        "Description": "Duration of the stimulus in seconds",
+        }
+}
+{
+    "stim_file": {
+        "LongName": "Stimulus presented",
+        "Description": "Path and name of the image file presented",
+        }
+}
+{
+    "instruction": {
+        "LongName": "Trial instructions",
+        "Description": "Instructions to be followed in the current trial",
+        "Levels": {
+            "Shape": "just getting ready",
+            "Texture": "a block in which left hand movement is required is about to start",
+        }
+    }
+}
+{
+    "nbloc": {
+        "LongName": "Bloc number",
+        "Description": "Progressive number of the block performed",
+    }
+}
+{
+    "trial": {
+        "LongName": "Trial number",
+        "Description": "Progressive number of the trial performed",
+    }
+}
+{
+    "answer": {
+        "LongName": "Answer provided",
+        "Description": "Answer that was provided",
+        "Levels": {
+            "yes": "yes",
+            "no": "no",
+        }
+    }
+}
+{
+    "correct_answer": {
+        "LongName": "Correct answer",
+        "Description": "Answer that should be provided",
+        "Levels": {
+            "yes": "yes",
+            "no": "no",
+        }
+    }
+}
+{
+    "response_time": {
+        "LongName": "Reaction time",
+        "Description": "Time taken to provide the answer",
+        }
+}
+{
+    "countdown_stim": {
+        "LongName": "not used",
+        "Description": "not used",
+        }
+}

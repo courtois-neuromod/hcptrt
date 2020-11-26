@@ -1,0 +1,90 @@
+{
+    "trial_type": {
+        "LongName": "Event category",
+        "Description": "Indicator of type of event",
+        "Levels": {
+            "countdown": "just getting ready",
+            "2-Back": "a block in which a 2-back task is to be performed",
+            "0-Bac": "a block in which a 0-back task is to be performed",
+            "cue": "no idea",
+        }
+    }
+}
+{
+    "trial": {
+        "LongName": "Trial number",
+        "Description": "Progressive number of the trial within a given block",
+    }
+}
+{
+    "answer": {
+        "LongName": "Answer provided",
+        "Description": "Answer that was provided",
+        "Levels": {
+            "match": "match",
+            "no-match": "not a match",
+        }
+    }
+}
+{
+    "correct_answer": {
+        "LongName": "Correct answer",
+        "Description": "Answer that should be provided",
+        "Levels": {
+            "match": "match",
+            "no-match": "not a match",
+        }
+    }
+}
+{
+    "stim_file": {
+        "LongName": "Stimulus presented",
+        "Description": "Path and name of the image file presented",
+        }
+}
+{
+    "target_type": {
+        "LongName": "Type of target stimulus",
+        "Description": "Whether the stimulus is a lure or not",
+        "Levels": {
+            "lure": "lure",
+            "nonlure": "not a lure",
+        }
+    }
+}
+{
+    "stim_type": {
+        "LongName": "Category of the stimulus",
+        "Description": "Category of the stimulus",
+        "Levels": {
+            "Place": "places",
+            "Tools": "tools",
+            "Face": "faces",
+            "Body": "body parts",
+        }
+    }
+}
+{
+    "onset": {
+        "LongName": "Stimuli onset",
+        "Description": "Onset of the stimulus in seconds",
+    }
+}
+{
+    "duration": {
+        "LongName": "Stimuli duration",
+        "Description": "Duration of the stimulus in seconds",
+        }
+}
+{
+    "response_time": {
+        "LongName": "Reaction time",
+        "Description": "Time taken to provide the answer",
+        }
+}
+{
+    "countdown_stim": {
+        "LongName": "not used",
+        "Description": "not used",
+        }
+}

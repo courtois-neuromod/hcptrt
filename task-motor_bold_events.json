@@ -1,0 +1,44 @@
+{
+    "trial_type": {
+        "LongName": "Event category",
+        "Description": "Indicator of the type of action that is required",
+        "Levels": {
+            "countdown": "just getting ready no movement required",
+            "new_bloc_left_hand": "warning that a block in which a left hand movement is required is about to start",
+            "new_bloc_right_hand": "warning that a block in which a right hand movement is required is about to start",
+            "new_bloc_left_foot": "warning that a block in which a left foot movement is required is about to start",
+            "new_bloc_right_foot": "warning that a block in which a right foot movement is required is about to start",
+            "new_bloc_tongue": "warning that a block in which a tongue movement is required is about to start",
+            "response_left_hand": "a block in which a left hand movement is required is about to start",
+            "response_right_hand": "a block in which a right hand movement is required is about to start",
+            "response_left_food": "a block in which a left foot movement is required is about to start",
+            "response_right_food": "a block in which a right foot movement is required is about to start",
+            "response_tongue": "move tongue",
+            "cross_fixation": "fixation cross on screen no movement required",
+        }
+    }
+}
+{
+    "nbloc": {
+        "LongName": "Bloc number",
+        "Description": "Progressive number of the block performed",
+    }
+}
+{
+    "onset": {
+        "LongName": "Stimuli onset",
+        "Description": "Onset of the stimulus in seconds",
+    }
+}
+{
+    "duration": {
+        "LongName": "Stimuli duration",
+        "Description": "Duration of the stimulus in seconds",
+        }
+}
+{
+    "countdown_stim": {
+        "LongName": "not used",
+        "Description": "not used",
+        }
+}
