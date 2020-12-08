@@ -5,8 +5,8 @@
         "Levels": {
             "countdown": "just getting ready",
             "2-Back": "a block in which a 2-back task is to be performed",
-            "0-Bac": "a block in which a 0-back task is to be performed",
-            "cue": "no idea",
+            "0-Back": "a block in which a 0-back task is to be performed",
+            "Cue": "no idea",
         }
     }
 }
