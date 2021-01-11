@@ -79,7 +79,7 @@
 }
 {
     "countdown_stim": {
-        "LongName": "not used",
-        "Description": "not used",
+        "LongName": "Countdown number before actual stimuli",
+        "Description": "If used, decreasing number shown on the screen during the get-ready phase of the task",
         }
 }
