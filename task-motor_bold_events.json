@@ -14,31 +14,23 @@
             "response_left_food": "a block in which a left foot movement is required is about to start",
             "response_right_food": "a block in which a right foot movement is required is about to start",
             "response_tongue": "move tongue",
-            "cross_fixation": "fixation cross on screen no movement required",
+            "cross_fixation": "fixation cross on screen no movement required"
         }
-    }
-}
-{
+      },
     "nbloc": {
         "LongName": "Bloc number",
-        "Description": "Progressive number of the block performed",
-    }
-}
-{
+        "Description": "Progressive number of the block performed"
+      },
     "onset": {
         "LongName": "Stimuli onset",
-        "Description": "Onset of the stimulus in seconds",
-    }
-}
-{
+        "Description": "Onset of the stimulus in seconds"
+      },
     "duration": {
         "LongName": "Stimuli duration",
-        "Description": "Duration of the stimulus in seconds",
-        }
-}
-{
+        "Description": "Duration of the stimulus in seconds"
+      },
     "countdown_stim": {
         "LongName": "Countdown number before actual stimuli",
-        "Description": "If used, decreasing number shown on the screen during the get-ready phase of the task",
+        "Description": "If used, decreasing number shown on the screen during the get-ready phase of the task"
         }
 }
