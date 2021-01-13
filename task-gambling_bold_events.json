@@ -6,75 +6,55 @@
             "countdown": "just getting ready",
             "Feedback": "a block in which one is provided a feedback on the performance",
             "Punishment": "a block in which bets are mostly unsuccesful",
-            "Reward": "a block in which bets are mostly succesful",
+            "Reward": "a block in which bets are mostly succesful"
         }
-    }
-}
-{
+      },
     "answer": {
         "LongName": "Answer provided",
         "Description": "Answer that was provided",
         "Levels": {
             "lower_than_five": "guessed that it would be lower than five",
-            "higher_than_five": "guessed that it would be higher than five",
+            "higher_than_five": "guessed that it would be higher than five"
         }
-    }
-}
-{
+      },
     "block_type": {
         "LongName": "Type of block",
         "Description": "Type of block",
         "Levels": {
             "MostlyPunishment": "a block in which bets are mostly unsuccesful",
-            "MostlyReward": "a block in which bets are mostly succesful",
+            "MostlyReward": "a block in which bets are mostly succesful"
         }
-    }
-}
-{
+      },
     "nbloc": {
         "LongName": "Bloc number",
-        "Description": "Progressive number of the block performed",
-    }
-}
-{
+        "Description": "Progressive number of the block performed"
+      },
     "ntrial": {
         "LongName": "Trial number",
-        "Description": "Progressive number of the trial performed within a given block",
-    }
-}
-{
+        "Description": "Progressive number of the trial performed within a given block"
+      },
     "onset": {
         "LongName": "Stimuli onset",
-        "Description": "Onset of the stimulus in seconds",
-    }
-}
-{
+        "Description": "Onset of the stimulus in seconds"
+      },
     "duration": {
         "LongName": "Trial duration",
-        "Description": "duration of the stimulus in seconds",
-        }
-}
-{
+        "Description": "duration of the stimulus in seconds"
+      },
     "response_time": {
         "LongName": "Reaction time",
-        "Description": "Time taken to provide the answer",
-        }
-}
-{
+        "Description": "Time taken to provide the answer"
+      },
     "stim_file_feedback": {
       "LongName": "Feedback stimulus presented",
-      "Description": "Path and name of the image file presented as feedback",
-      }
-}
-{
+      "Description": "Path and name of the image file presented as feedback"
+    },
     "feedback_number": {
         "LongName": "Number of the feedback",
-        "Description": "Number of the feedback stimulus presented",
-        }
-}
-{
+        "Description": "Number of the feedback stimulus presented"
+      },
     "countdown_stim": {
         "LongName": "Countdown number before actual stimuli",
-        "Description": "If used, decreasing number shown on the screen during the get-ready phase of the task",
+        "Description": "If used, decreasing number shown on the screen during the get-ready phase of the task"
         }
 }

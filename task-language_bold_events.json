@@ -8,105 +8,75 @@
             "response_story": "response relative to a short story, push correct button",
             "presentation_math": "presentation of a math problem, just listen",
             "question_math": "question relative to a math problem, just listen",
-            "response_math": "response relative to a math problem, push correct button",
+            "response_math": "response relative to a math problem, push correct button"
         }
-    }
-}
-{
+      },
     "stim_file": {
         "LongName": "Auditory stimulus presented",
-        "Description": "Path and name of the wav file used",
-    }
-}
-{
+        "Description": "Path and name of the wav file used"
+      },
     "ntrial": {
         "LongName": "Trial number",
-        "Description": "Onset of the stimulus in seconds",
-    }
-}
-{
+        "Description": "Onset of the stimulus in seconds"
+      },
     "onset": {
         "LongName": "Stimuli onset",
-        "Description": "Onset of the stimulus in seconds",
-    }
-}
-{
+        "Description": "Onset of the stimulus in seconds"
+      },
     "duration": {
         "LongName": "Stimuli duration",
-        "Description": "Duration of the stimulus in seconds",
-        }
-}
-{
+        "Description": "Duration of the stimulus in seconds"
+      },
     "stim_file_question1": {
         "LongName": "First auditory stimulus presented as question",
-        "Description": "Path and name of the wav file used as first part of the question",
-        }
-}
-{
+        "Description": "Path and name of the wav file used as first part of the question"
+      },
     "stim_file_question2": {
         "LongName": "Second auditory stimulus presented as question",
-        "Description": "Path and name of the wav file used as second part of the question",
-        }
-}
-{
+        "Description": "Path and name of the wav file used as second part of the question"
+      },
     "question_option1": {
         "LongName": "First response option",
-        "Description": "First part of the two-alternative forced-choice question",
-        }
-}
-{
+        "Description": "First part of the two-alternative forced-choice question"
+      },
     "question_option2": {
         "LongName": "Second response option",
-        "Description": "Second part of the two-alternative forced-choice question",
-        }
-}
-{
+        "Description": "Second part of the two-alternative forced-choice question"
+      },
     "onset_that_was_about": {
         "LongName": "Onset of the beginning of the question",
-        "Description": "Onset of the beginning of the two-alternative forced-choice question",
-        }
-}
-{
+        "Description": "Onset of the beginning of the two-alternative forced-choice question"
+      },
     "onset_question_option1": {
       "LongName": "Onset of the first option",
-      "Description": "Onset of the first option of the two-alternative forced-choice question",
-      }
-}
-{
+      "Description": "Onset of the first option of the two-alternative forced-choice question"
+    },
     "onset_or": {
       "LongName": "Onset of the OR",
-      "Description": "Onset of the OR",
-      }
-}
-{
+      "Description": "Onset of the OR"
+    },
     "onset_question_option2": {
       "LongName": "Onset of the second option",
-      "Description": "Onset of the second option of the two-alternative forced-choice question",
-      }
-}
-{
+      "Description": "Onset of the second option of the two-alternative forced-choice question"
+    },
     "correct_answer": {
         "LongName": "Correct answer",
         "Description": "Answer that should be provided",
         "Levels": {
             "option1": "first option",
-            "option2": "second option",
+            "option2": "second option"
         }
-    }
-}
-{
+      },
     "answer": {
         "LongName": "Answer provided",
         "Description": "Answer that was provided",
         "Levels": {
             "option1": "first option",
-            "option2": "second option",
+            "option2": "second option"
         }
-    }
-}
-{
+      },
     "response_time": {
         "LongName": "Reaction time",
-        "Description": "Time taken to provide the answer",
+        "Description": "Time taken to provide the answer"
         }
 }

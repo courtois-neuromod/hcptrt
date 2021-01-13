@@ -6,53 +6,41 @@
             "countdown": "just getting ready",
             "2-Back": "a block in which a 2-back task is to be performed",
             "0-Back": "a block in which a 0-back task is to be performed",
-            "Cue": "no idea",
+            "Cue": "cue telling the participant if the upcoming series is a 0back or a 2back"
         }
-    }
-}
-{
+      },
     "trial": {
         "LongName": "Trial number",
-        "Description": "Progressive number of the trial within a given block",
-    }
-}
-{
+        "Description": "Progressive number of the trial within a given block"
+      },
     "answer": {
         "LongName": "Answer provided",
         "Description": "Answer that was provided",
         "Levels": {
             "match": "match",
-            "no-match": "not a match",
+            "no-match": "not a match"
         }
-    }
-}
-{
+      },
     "correct_answer": {
         "LongName": "Correct answer",
         "Description": "Answer that should be provided",
         "Levels": {
             "match": "match",
-            "no-match": "not a match",
+            "no-match": "not a match"
         }
-    }
-}
-{
+      },
     "stim_file": {
         "LongName": "Stimulus presented",
-        "Description": "Path and name of the image file presented",
-        }
-}
-{
+        "Description": "Path and name of the image file presented"
+      },
     "target_type": {
         "LongName": "Type of target stimulus",
         "Description": "Whether the stimulus is a lure or not",
         "Levels": {
             "lure": "lure",
-            "nonlure": "not a lure",
+            "nonlure": "not a lure"
         }
-    }
-}
-{
+      },
     "stim_type": {
         "LongName": "Category of the stimulus",
         "Description": "Category of the stimulus",
@@ -60,31 +48,23 @@
             "Place": "places",
             "Tools": "tools",
             "Face": "faces",
-            "Body": "body parts",
+            "Body": "body parts"
         }
-    }
-}
-{
+      },
     "onset": {
         "LongName": "Stimuli onset",
-        "Description": "Onset of the stimulus in seconds",
-    }
-}
-{
+        "Description": "Onset of the stimulus in seconds"
+      },
     "duration": {
         "LongName": "Stimuli duration",
-        "Description": "Duration of the stimulus in seconds",
-        }
-}
-{
+        "Description": "Duration of the stimulus in seconds"
+      },
     "response_time": {
         "LongName": "Reaction time",
-        "Description": "Time taken to provide the answer",
-        }
-}
-{
+        "Description": "Time taken to provide the answer"
+      },
     "countdown_stim": {
         "LongName": "Countdown number before actual stimuli",
-        "Description": "If used, decreasing number shown on the screen during the get-ready phase of the task",
+        "Description": "If used, decreasing number shown on the screen during the get-ready phase of the task"
         }
 }

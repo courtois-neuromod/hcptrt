@@ -7,81 +7,59 @@
             "new_bloc_shape": "a block in which three shapes are presented",
             "new_bloc_face": "a block in which three faces are presented",
             "response_shape": "response to a shape trial",
-            "response_face": "response to a face trial",
+            "response_face": "response to a face trial"
         }
-    }
-}
-{
+    },
     "nbloc": {
         "LongName": "Bloc number",
-        "Description": "Progressive number of the block performed",
-    }
-}
-{
+        "Description": "Progressive number of the block performed"
+      },
     "onset": {
         "LongName": "Stimuli onset",
-        "Description": "Onset of the stimulus in seconds",
-    }
-}
-{
+        "Description": "Onset of the stimulus in seconds"
+      },
     "duration": {
         "LongName": "Stimuli duration",
-        "Description": "Duration of the stimulus in seconds",
-        }
-}
-{
+        "Description": "Duration of the stimulus in seconds"
+      },
     "ntrial": {
         "LongName": "Trial number",
-        "Description": "Progressive number of the trial within a given block",
-    }
-}
-{
+        "Description": "Progressive number of the trial within a given block"
+      },
     "stim_file_top": {
         "LongName": "Stimulus presented at the top",
-        "Description": "Path and name of the image file presented at the top",
-        }
-}
-{
+        "Description": "Path and name of the image file presented at the top"
+      },
     "stim_file_left": {
         "LongName": "Stimulus presented on the left",
-        "Description": "Path and name of the image file presented on the left",
-        }
-}
-{
+        "Description": "Path and name of the image file presented on the left"
+      },
     "stim_file_right": {
         "LongName": "Stimulus presented on the right",
-        "Description": "Path and name of the image file presented on the right",
-        }
-}
-{
+        "Description": "Path and name of the image file presented on the right"
+      },
     "answer": {
         "LongName": "Answer provided",
         "Description": "Answer provided",
         "Levels": {
             "left": "left",
-            "right": "right",
+            "right": "right"
         }
-    }
-}
-{
+      },
     "correct_answer": {
         "LongName": "Correct answer",
         "Description": "Answer that should have been provided",
         "Levels": {
             "left": "left",
-            "right": "right",
+            "right": "right"
         }
-    }
-}
-{
+      },
     "response_time": {
         "LongName": "Reaction time",
-        "Description": "Time taken to provide the answer",
-        }
-}
-{
+        "Description": "Time taken to provide the answer"
+      },
     "countdown_stim": {
         "LongName": "Countdown number before actual stimuli",
-        "Description": "If used, decreasing number shown on the screen during the get-ready phase of the task",
+        "Description": "If used, decreasing number shown on the screen during the get-ready phase of the task"
         }
 }

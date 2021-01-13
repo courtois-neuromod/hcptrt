@@ -5,54 +5,40 @@
         "Levels": {
             "countdown": "just getting ready",
             "Mental": "presentation of a short video with shapes interacting",
-            "Random": "presentation of a short video with shapes moving randomly",
+            "Random": "presentation of a short video with shapes moving randomly"
         }
-    }
-}
-{
+      },
     "stim_file": {
         "LongName": "Stimulus presented",
-        "Description": "Path and name of the video file presented",
-        }
-}
-{
+        "Description": "Path and name of the video file presented"
+      },
     "response": {
         "LongName": "Response provided",
         "Description": "Judgment of the interaction observed",
         "Levels": {
             "mental": "mental interaction",
             "not_sure": "not sure",
-            "random": "no interaction",
+            "random": "no interaction"
         }
-    }
-}
-{
+      },
     "duration_stim": {
         "LongName": "Stimuli duration",
-        "Description": "duration of the stimulus in seconds",
-        }
-}
-{
+        "Description": "duration of the stimulus in seconds"
+      },
     "onset": {
         "LongName": "Stimuli onset",
-        "Description": "Onset of the stimulus in seconds",
-    }
-}
-{
+        "Description": "Onset of the stimulus in seconds"
+      },
     "duration": {
         "LongName": "Trial duration",
-        "Description": "duration of the stimulus in seconds",
-        }
-}
-{
+        "Description": "duration of the stimulus in seconds"
+      },
     "response_time": {
         "LongName": "Reaction time",
-        "Description": "Time taken to provide the answer",
-        }
-}
-{
+        "Description": "Time taken to provide the answer"
+      },
     "countdown_stim": {
         "LongName": "Countdown number before actual stimuli",
-        "Description": "If used, decreasing number shown on the screen during the get-ready phase of the task",
+        "Description": "If used, decreasing number shown on the screen during the get-ready phase of the task"
         }
 }
