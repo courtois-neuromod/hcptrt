@@ -18,7 +18,7 @@
         }
       },
     "nbloc": {
-        "LongName": "Bloc number",
+        "LongName": "Block number",
         "Description": "Progressive number of the block performed"
       },
     "onset": {
