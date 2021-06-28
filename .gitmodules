@@ -12,3 +12,7 @@
 	path = derivatives/mriqc-0.16
 	url = ./derivatives/mriqc-0.16
 	datalad-id = 105d6ec7-e6ec-4142-be80-27c5f733b100
+[submodule "stimuli"]
+	path = stimuli
+	url = ./stimuli
+	datalad-id = 7f37f36f-e3ef-4c37-8586-f88cb489a24c
