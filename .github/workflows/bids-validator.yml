@@ -27,5 +27,5 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run bids-validator
-        run: docker run -v $GITHUB_WORKSPACE:/bids bids/validator /bids
+        run: echo docker run -v $GITHUB_WORKSPACE:/bids bids/validator /bids
 
