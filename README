@@ -3,11 +3,13 @@
 
 The [Courtois project on Neural Modelling (Courtois NeuroMod)](https://www.cneuromod.ca/) aims at training artificial neural networks using extensive experimental data on individual human brain activity and behaviour.
 
-Participants *performed tasks from the HCP project multiple time accross sessions while functional data being acquired in the MRI scanner* . A extensive description can be found [here](https://docs.cneuromod.ca/en/latest/DATASETS.html#xxxx) [Courtois-NeuroMod dataset](https://docs.cneuromod.ca/).
+Participants performed tasks from the HCP project multiple time accross sessions while functional data being acquired in the MRI scanner . A extensive description can be found [here](https://docs.cneuromod.ca/en/latest/DATASETS.html#hcptrt).
 
 This subdataset is organized following the [brain imaging data structure (BIDS)](https://bids.neuroimaging.io/) (including extensions in development) and contains:
-- [x] raw neuroimaging data
-- [ ] behavioral variables in event files
+- [x] [raw neuroimaging data](https://docs.cneuromod.ca/en/latest/MRI.html#functional-sequences)
+- [x] behavioral variables in event files
+
+*(unchecked are collected data which have not yet been integrated in the dataset)*
 
 Courtois NeuroMod data are [freely shared with the scientific community](https://docs.cneuromod.ca/en/latest/ACCESS.html) to advance research at the interface of neuroscience and artificial intelligence. Access to to the data is based on a registered access model, see the Courtois NeuroMod website for more information. Redistribution of data outside of the Courtois NeuroMod data bank is prohibited.(neuromod_data) bpinsard@elm:/data/neuromod/DATA/bids_template
 
