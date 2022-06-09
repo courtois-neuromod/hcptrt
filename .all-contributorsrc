@@ -37,6 +37,20 @@
       ]
     },
     {
+      "login": "vborghe",
+      "name": "vborghesani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11749857?v=4",
+      "profile": "http://valentina.borghesani.org/",
+      "contributions": [
+        "review",
+        "question",
+        "mentoring",
+        "doc",
+        "bug",
+        "userTesting"
+      ]
+    },
+    {
       "login": "arnaudbore",
       "name": "arnaudbore",
       "avatar_url": "https://avatars.githubusercontent.com/u/2171665?v=4",
