@@ -1,8 +1,4 @@
 [submodule "stimuli"]
 	path = stimuli
-	url = ./stimuli
+	url = git@github.com:courtois-neuromod/hcptrt.stimuli.git
 	datalad-id = 7f37f36f-e3ef-4c37-8586-f88cb489a24c
-[submodule ".heudiconv"]
-	path = .heudiconv
-	url = ./.heudiconv
-	datalad-id = e9810701-8dde-4065-98ec-585a2a0c8659
