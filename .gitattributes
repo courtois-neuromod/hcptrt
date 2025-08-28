@@ -10,4 +10,4 @@
 # annex event files as they contain subjects behavioral responses
 sub-*/**/*_events.tsv annex.largefiles=anything
 # annex all stimuli
-stimulis/** annex.largefiles=anything
+stimulis/** annex.largefiles=anything.github/** annex.largefiles=nothing
