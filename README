@@ -1,7 +1,7 @@
 <!-- vim: syntax=Markdown -->
 # CNeuroMod: [HCP test-retest (hcptrt) raw dataset](https://github.com/courtois-neuromod/hcptrt)
 
-This repository contains the raw data of a [CNeuroMod](https://cneuromod.ca) dataset called `hcptrt`, where Participants performed tasks from the [HCP](https://www.humanconnectome.org/) project multiple time (up to 15 times) across sessions while functional data being acquired in the MRI scanner.
+This repository contains the raw data of a [CNeuroMod](https://cneuromod.ca) dataset called `hcptrt`, where Participants performed tasks from the [HCP](https://www.humanconnectome.org/) project multiple times across sessions while functional data being acquired in the MRI scanner.
 
 :::{tip} How to cite
 
