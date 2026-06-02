@@ -68,5 +68,6 @@
   "TaskName": "restingstate",
   "TotalReadoutTime": 0.0576811,
   "TxRefAmp": 222.132,
-  "WipMemBlock": "81ece92a-808b-4892-b2f7-83b89d1d9729||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja"
+  "WipMemBlock": "81ece92a-808b-4892-b2f7-83b89d1d9729||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja",
+  "dcmmeta_shape": [104, 104, 60, 600]
 }

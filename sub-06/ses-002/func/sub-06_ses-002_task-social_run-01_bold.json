@@ -68,5 +68,6 @@
   "TaskName": "social",
   "TotalReadoutTime": 0.0576811,
   "TxRefAmp": 219.995,
-  "WipMemBlock": "8e9b133e-b713-4967-9b28-8db0ec55bd65||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja"
+  "WipMemBlock": "8e9b133e-b713-4967-9b28-8db0ec55bd65||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja",
+  "dcmmeta_shape": [104, 104, 60, 139]
 }

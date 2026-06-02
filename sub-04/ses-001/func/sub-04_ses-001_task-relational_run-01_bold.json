@@ -68,5 +68,6 @@
   "TaskName": "relational",
   "TotalReadoutTime": 0.0576811,
   "TxRefAmp": 219.438,
-  "WipMemBlock": "2f4820d8-d845-43b1-a5e8-428c562f5277||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja"
+  "WipMemBlock": "2f4820d8-d845-43b1-a5e8-428c562f5277||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja",
+  "dcmmeta_shape": [104, 104, 60, 119]
 }

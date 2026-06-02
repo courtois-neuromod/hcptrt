@@ -68,5 +68,6 @@
   "TaskName": "wm",
   "TotalReadoutTime": 0.0576811,
   "TxRefAmp": 220.382,
-  "WipMemBlock": "9a1c5135-d7b4-4993-b647-b3be954e9bd8||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja"
+  "WipMemBlock": "9a1c5135-d7b4-4993-b647-b3be954e9bd8||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja",
+  "dcmmeta_shape": [104, 104, 60, 202]
 }

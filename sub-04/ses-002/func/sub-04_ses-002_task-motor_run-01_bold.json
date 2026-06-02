@@ -68,5 +68,6 @@
   "TaskName": "motor",
   "TotalReadoutTime": 0.0576811,
   "TxRefAmp": 222.36,
-  "WipMemBlock": "ba6409d8-2db2-4842-a416-37b456030f08||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja"
+  "WipMemBlock": "ba6409d8-2db2-4842-a416-37b456030f08||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja",
+  "dcmmeta_shape": [104, 104, 60, 144]
 }

@@ -68,5 +68,6 @@
   "TaskName": "gambling",
   "TotalReadoutTime": 0.0576811,
   "TxRefAmp": 220.093,
-  "WipMemBlock": "e718f702-17a7-444c-a611-85b8516d0cbc||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja"
+  "WipMemBlock": "e718f702-17a7-444c-a611-85b8516d0cbc||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja",
+  "dcmmeta_shape": [104, 104, 60, 129]
 }

@@ -68,5 +68,6 @@
   "TaskName": "language",
   "TotalReadoutTime": 0.0576811,
   "TxRefAmp": 219.995,
-  "WipMemBlock": "3b984e83-55de-4d89-9c5e-2000fa049809||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja"
+  "WipMemBlock": "3b984e83-55de-4d89-9c5e-2000fa049809||Sequence: R016 ve11c/master r/e634e98; Dec 19 2017 11:00:25 by eja",
+  "dcmmeta_shape": [104, 104, 60, 159]
 }
